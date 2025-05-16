@@ -35,7 +35,7 @@ To use this project, follow these steps:
 	Run the provided test cases or example programs to ensure your setup is working correctly. You can find these in the `tests` or `examples` directory.
 
 ### Contribution Guidelines
-We welcome contributions from everyone! To get started, please review the [CONTRIBUTION.md](CONTRIBUTION.md) file, which contains detailed guidelines on how to contribute effectively to this project. Whether you're fixing bugs, adding new algorithms, or improving documentation, your contributions are highly valued.
+We welcome contributions from everyone! To get started, please review the [Contributing.md](Contributing.md) file, which contains detailed guidelines on how to contribute effectively to this project. Whether you're fixing bugs, adding new algorithms, or improving documentation, your contributions are highly valued.
 
 Here are some ways you can contribute:
 - Implement new algorithms or data structures.
